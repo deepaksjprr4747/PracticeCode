@@ -1,0 +1,15 @@
+<suite name="Suite1">
+
+	<test name="RA and RD Creation">
+		
+		<classes>
+			<class
+			
+				name="com.place.automation.cpm.testcases.revenueaccount.TC03_SingleRDwithMultipleEdit"/>
+
+			</classes>
+	</test> 
+	
+	
+
+</suite> 

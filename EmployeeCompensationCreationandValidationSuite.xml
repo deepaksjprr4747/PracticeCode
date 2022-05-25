@@ -1,0 +1,32 @@
+<suite name="Suite1">
+
+<test name="Employee and compensation Creation">
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.employee.TC01_CreateNewEmployee"/>
+
+		</classes>
+	</test> 
+
+	
+	
+	
+	
+<test name="Employee delete">
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.employee.TC03_DeleteEmployeeCompensation"/>
+
+		</classes>
+	</test> 
+	<test name="Employee compensation delete ">
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.employee.TC04_DeleteEmployeeRecord"/>
+
+		</classes>
+	</test> 
+</suite> 

@@ -1,0 +1,23 @@
+<suite name="Suite1">
+
+	<test name="EA edit Creation">
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.expenseaccount.TC03_EditRecurringED" />
+
+		</classes>
+	</test> 
+	
+	
+	
+	<test name="ED Validation on Cash Screen" >
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.cashprojection.TC06_CashAllocationEditValidationMonthView" />
+
+		</classes>
+	</test>
+
+</suite> 

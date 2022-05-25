@@ -1,0 +1,565 @@
+2022-05-14 14:30:30,439 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-14 14:30:30,441 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-14 14:30:30,441 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-14 14:52:13,800 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-14 14:52:13,803 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-14 14:52:13,803 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-14 15:08:49,427 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-14 15:08:49,429 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-14 15:08:49,429 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-14 15:09:21,928 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-14 15:09:21,930 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-14 15:09:21,930 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-14 15:14:08,710 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-14 15:14:08,712 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-14 15:14:08,713 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-14 15:14:11,633 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-14 15:14:11,844 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-14 15:14:11,844 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-14 15:14:12,154 - com.place.automation.utils.Log -INFO - going to login now
+2022-05-14 15:14:17,377 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 15:14:17,378 - com.place.automation.utils.Log -INFO - **********createQuotaSchedule***********
+2022-05-14 15:14:17,378 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 15:32:24,787 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-14 15:32:24,789 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-14 15:32:24,790 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-14 15:32:26,879 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-14 15:32:27,068 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-14 15:32:27,069 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-14 15:32:27,360 - com.place.automation.utils.Log -INFO - going to login now
+2022-05-14 15:32:31,860 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 15:32:31,861 - com.place.automation.utils.Log -INFO - **********createQuotaSchedule***********
+2022-05-14 15:32:31,861 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 15:33:27,726 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 15:33:27,727 - com.place.automation.utils.Log -INFO - **********createQuotaSchedule***********
+2022-05-14 15:33:27,727 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 23:23:48,423 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-14 23:23:48,426 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-14 23:23:48,427 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-14 23:23:50,952 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-14 23:23:51,173 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-14 23:23:51,180 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-14 23:23:51,517 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 23:23:51,517 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-14 23:23:51,517 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 23:23:51,802 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 23:23:51,802 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-14 23:23:51,802 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 23:26:19,352 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-14 23:26:19,354 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-14 23:26:19,354 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-14 23:26:21,131 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-14 23:26:21,330 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-14 23:26:21,347 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-14 23:26:21,648 - com.place.automation.utils.Log -INFO - going to login now
+2022-05-14 23:27:36,303 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-14 23:27:36,306 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-14 23:27:36,306 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-14 23:27:38,074 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-14 23:27:38,266 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-14 23:27:38,281 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-14 23:27:38,375 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 23:27:38,375 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-14 23:27:38,376 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 23:27:38,614 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 23:27:38,614 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-14 23:27:38,614 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 23:35:11,476 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-14 23:35:11,479 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-14 23:35:11,479 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-14 23:35:13,324 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-14 23:35:13,525 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-14 23:35:13,530 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-14 23:35:13,774 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 23:35:13,774 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-14 23:35:13,774 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 23:35:28,805 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-14 23:35:28,816 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-14 23:35:28,816 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 15:36:42,346 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 15:36:42,349 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 15:36:42,349 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 15:36:44,043 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 15:36:44,271 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 15:36:44,275 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 15:36:44,572 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 15:36:44,572 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 15:36:44,572 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 15:37:09,497 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 15:37:09,498 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 15:37:09,498 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 15:45:08,482 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 15:45:08,485 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 15:45:08,485 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 15:45:10,101 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 15:45:10,300 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 15:45:10,309 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 15:45:10,571 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 15:45:10,571 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 15:45:10,572 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 15:45:32,766 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 15:45:32,787 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 15:45:32,805 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:14:45,653 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 16:14:45,655 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 16:14:45,655 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 16:14:47,493 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 16:14:47,713 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 16:14:47,713 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 16:14:47,992 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:14:47,993 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 16:14:47,993 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:15:13,501 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:15:13,502 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 16:15:13,502 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:32:51,726 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 16:32:51,728 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 16:32:51,728 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 16:32:53,653 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 16:32:53,842 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 16:32:53,842 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 16:32:54,090 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:32:54,091 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 16:32:54,091 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:33:12,199 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:33:12,200 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 16:33:12,201 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:38:29,761 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 16:38:29,763 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 16:38:29,763 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 16:38:31,328 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 16:38:31,548 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 16:38:31,555 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 16:38:31,805 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:38:31,805 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 16:38:31,805 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:38:50,011 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:38:50,011 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 16:38:50,011 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:41:00,841 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 16:41:00,842 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 16:41:00,843 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 16:41:02,253 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 16:41:02,459 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 16:41:02,466 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 16:41:02,686 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:41:02,686 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 16:41:02,686 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:41:28,207 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:41:28,225 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 16:41:28,225 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:42:08,081 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 16:42:08,083 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 16:42:08,083 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 16:42:09,501 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 16:42:09,688 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 16:42:09,691 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 16:42:09,775 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:42:09,775 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 16:42:09,776 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:42:36,331 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:42:36,344 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 16:42:36,344 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:42:57,376 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 16:42:57,378 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 16:42:57,378 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 16:42:58,751 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 16:42:58,961 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 16:42:58,969 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 16:42:59,038 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:42:59,038 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 16:42:59,038 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:43:24,236 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:43:24,236 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 16:43:24,237 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 16:45:16,777 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 16:45:16,780 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 16:45:16,780 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 16:58:48,930 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 16:58:48,933 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 16:58:48,933 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 16:59:13,051 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 16:59:13,054 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 16:59:13,054 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 17:01:28,095 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 17:01:28,098 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 17:01:28,098 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 17:01:47,776 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 17:01:47,779 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 17:01:47,779 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 17:01:49,433 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 17:01:49,642 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 17:01:49,642 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 17:01:49,730 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 17:01:49,730 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 17:01:49,730 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 17:02:15,764 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 17:02:15,768 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 17:02:15,769 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 17:04:10,479 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 17:04:10,481 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 17:04:10,482 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 17:04:12,143 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 17:04:12,354 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 17:04:12,360 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 17:04:12,653 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 17:04:12,653 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 17:04:12,653 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 17:04:38,372 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 17:04:38,378 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 17:04:38,379 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:09:51,904 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 23:09:51,907 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 23:09:51,907 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 23:09:53,657 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 23:09:53,852 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 23:09:53,860 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 23:09:54,118 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:09:54,118 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 23:09:54,118 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:09:54,384 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:09:54,384 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 23:09:54,385 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:22:18,905 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 23:22:18,908 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 23:22:18,908 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 23:22:20,716 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 23:22:20,920 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 23:22:20,928 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 23:22:21,195 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:22:21,195 - com.place.automation.utils.Log -INFO - **********testngBrowserlaunch***********
+2022-05-15 23:22:21,195 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:22:21,202 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 23:22:21,203 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 23:22:21,203 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 23:22:22,331 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 23:22:22,503 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 23:22:22,510 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:22:22,525 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 23:22:22,561 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:22:22,565 - com.place.automation.utils.Log -INFO - Starting login functionality now
+2022-05-15 23:22:54,533 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:22:54,533 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 23:22:54,533 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:24:14,933 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 23:24:14,935 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 23:24:14,935 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 23:24:16,597 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 23:24:16,785 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 23:24:16,788 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 23:24:16,873 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:24:16,873 - com.place.automation.utils.Log -INFO - **********testngBrowserlaunch***********
+2022-05-15 23:24:16,873 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:24:16,879 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 23:24:16,879 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 23:24:16,879 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 23:24:17,922 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 23:24:18,106 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 23:24:18,116 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:24:18,121 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 23:24:18,122 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:24:47,887 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:24:47,888 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 23:24:47,888 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:32:27,051 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 23:32:27,054 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 23:32:27,055 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 23:32:28,751 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 23:32:28,969 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 23:32:28,978 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 23:32:59,595 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:32:59,596 - com.place.automation.utils.Log -INFO - **********testngBrowserlaunch***********
+2022-05-15 23:32:59,596 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:32:59,606 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 23:32:59,606 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 23:32:59,606 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 23:33:00,939 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 23:33:01,130 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 23:33:01,139 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:33:01,155 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 23:33:01,155 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:34:48,545 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 23:34:48,549 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 23:34:48,549 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 23:34:50,264 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 23:34:50,434 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 23:34:50,434 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 23:34:50,527 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:34:50,527 - com.place.automation.utils.Log -INFO - **********testngBrowserlaunch***********
+2022-05-15 23:34:50,527 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:34:50,533 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 23:34:50,533 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 23:34:50,533 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 23:34:51,584 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 23:34:51,791 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 23:34:51,815 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:34:51,831 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 23:34:51,832 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:35:17,377 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:35:17,378 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 23:35:17,378 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:44:01,128 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 23:44:01,131 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 23:44:01,131 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 23:44:02,831 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 23:44:03,038 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 23:44:03,044 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 23:44:03,323 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:44:03,323 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 23:44:03,323 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:44:20,021 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 23:44:20,023 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 23:44:20,023 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 23:44:21,454 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 23:44:21,641 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 23:44:21,641 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 23:44:21,723 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:44:21,723 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 23:44:21,723 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:44:47,127 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:44:47,128 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 23:44:47,128 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:47:58,303 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 23:47:58,306 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 23:47:58,306 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 23:47:59,771 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 23:47:59,983 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 23:47:59,993 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 23:48:00,083 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:48:00,083 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 23:48:00,083 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:48:25,643 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:48:25,643 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 23:48:25,644 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:52:13,420 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-15 23:52:13,422 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-15 23:52:13,423 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-15 23:52:14,916 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-15 23:52:15,104 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-15 23:52:15,124 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-15 23:52:15,384 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:52:15,384 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-15 23:52:15,384 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:52:40,662 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-15 23:52:40,663 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-15 23:52:40,663 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-16 00:00:23,312 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-16 00:00:23,314 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-16 00:00:23,315 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-16 00:00:24,762 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-16 00:00:24,945 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-16 00:00:24,946 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-16 00:00:25,222 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-16 00:00:25,223 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-16 00:00:25,223 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-16 00:00:50,488 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-16 00:00:50,489 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-16 00:00:50,490 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-16 23:26:31,040 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-16 23:26:31,043 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-16 23:26:31,044 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-16 23:26:33,186 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-16 23:26:33,372 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-16 23:26:33,390 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-16 23:26:33,638 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-16 23:26:33,638 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-16 23:26:33,639 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-16 23:27:06,402 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-16 23:27:06,420 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-16 23:27:06,421 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-17 19:25:12,155 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-17 19:25:12,160 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-17 19:25:12,160 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-17 19:25:14,274 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-17 19:25:14,440 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-17 19:25:14,452 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-17 19:25:14,753 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-17 19:25:14,753 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-17 19:25:14,754 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-17 19:25:43,154 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-17 19:25:43,155 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-17 19:25:43,156 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-17 22:23:32,978 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-17 22:23:32,980 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-17 22:23:32,980 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-17 22:23:34,930 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-17 22:23:35,146 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-17 22:23:35,157 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-17 22:23:35,274 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-17 22:23:35,274 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-17 22:23:35,274 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-17 22:24:03,746 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-17 22:24:03,748 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-17 22:24:03,748 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-17 22:43:18,837 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-17 22:43:18,839 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-17 22:43:18,840 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-17 22:43:20,526 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-17 22:43:20,729 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-17 22:43:20,730 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-17 22:43:20,824 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-17 22:43:20,824 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-17 22:43:20,824 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-17 22:43:46,739 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-17 22:43:46,755 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-17 22:43:46,756 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:34:04,423 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-20 17:34:04,426 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-20 17:34:04,427 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-20 17:34:06,743 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-20 17:34:06,966 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-20 17:34:06,992 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-20 17:34:07,206 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:34:07,206 - com.place.automation.utils.Log -INFO - **********login***********
+2022-05-20 17:34:07,206 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:37:01,465 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-20 17:37:01,468 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-20 17:37:01,468 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-20 17:37:03,305 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-20 17:37:03,524 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-20 17:37:03,527 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-20 17:37:03,770 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:37:03,770 - com.place.automation.utils.Log -INFO - **********login***********
+2022-05-20 17:37:03,770 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:37:32,434 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-20 17:37:32,436 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-20 17:37:32,436 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-20 17:37:33,965 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-20 17:37:34,179 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-20 17:37:34,179 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-20 17:37:34,266 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:37:34,266 - com.place.automation.utils.Log -INFO - **********login***********
+2022-05-20 17:37:34,266 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:40:19,448 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-20 17:40:19,451 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-20 17:40:19,451 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-20 17:40:21,418 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-20 17:40:21,602 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-20 17:40:21,602 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-20 17:40:21,868 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:40:21,869 - com.place.automation.utils.Log -INFO - **********login***********
+2022-05-20 17:40:21,869 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:40:50,683 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-20 17:40:50,686 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-20 17:40:50,686 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-20 17:40:52,629 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-20 17:40:52,824 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-20 17:40:52,824 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-20 17:40:52,906 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:40:52,906 - com.place.automation.utils.Log -INFO - **********login***********
+2022-05-20 17:40:52,906 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:41:18,205 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-20 17:41:18,208 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-20 17:41:18,208 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-20 17:41:20,019 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-20 17:41:20,271 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-20 17:41:20,271 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-20 17:41:20,348 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:41:20,348 - com.place.automation.utils.Log -INFO - **********login***********
+2022-05-20 17:41:20,348 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:42:16,467 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-20 17:42:16,469 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-20 17:42:16,469 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-20 17:42:18,369 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-20 17:42:18,613 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-20 17:42:18,613 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-20 17:42:18,699 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:42:18,699 - com.place.automation.utils.Log -INFO - **********login***********
+2022-05-20 17:42:18,699 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:43:40,665 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-20 17:43:40,667 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-20 17:43:40,668 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-20 17:43:42,409 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-20 17:43:42,622 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-20 17:43:42,622 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-20 17:43:42,709 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:43:42,710 - com.place.automation.utils.Log -INFO - **********login***********
+2022-05-20 17:43:42,710 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:44:17,687 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-20 17:44:17,690 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-20 17:44:17,690 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-20 17:44:19,260 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-20 17:44:19,459 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-20 17:44:19,471 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-20 17:44:19,766 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:44:19,766 - com.place.automation.utils.Log -INFO - **********login***********
+2022-05-20 17:44:19,767 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:45:12,002 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-20 17:45:12,005 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-20 17:45:12,005 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-20 17:45:13,682 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-20 17:45:13,969 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-20 17:45:13,969 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-20 17:45:14,055 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:45:14,055 - com.place.automation.utils.Log -INFO - **********login***********
+2022-05-20 17:45:14,055 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:45:42,240 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-20 17:45:42,242 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-20 17:45:42,242 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-20 17:45:43,810 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-20 17:45:44,080 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-20 17:45:44,080 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-20 17:45:44,170 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:45:44,170 - com.place.automation.utils.Log -INFO - **********login***********
+2022-05-20 17:45:44,170 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:46:12,634 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-20 17:46:12,636 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-20 17:46:12,637 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-20 17:46:14,184 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-20 17:46:14,470 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-20 17:46:14,480 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-20 17:46:14,567 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-20 17:46:14,568 - com.place.automation.utils.Log -INFO - **********login***********
+2022-05-20 17:46:14,568 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-25 15:58:07,688 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-25 15:58:07,691 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-25 15:58:07,691 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-25 15:58:09,813 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-25 15:58:10,038 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-25 15:58:10,040 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-25 15:58:10,290 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-25 15:58:10,290 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-25 15:58:10,290 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-25 15:58:34,774 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-25 15:58:34,775 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-25 15:58:34,776 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-25 17:52:05,055 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-25 17:52:05,059 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-25 17:52:05,059 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-25 17:52:07,150 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-25 17:52:07,351 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-25 17:52:07,361 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-25 17:52:07,672 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-25 17:52:07,673 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-25 17:52:07,673 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-25 17:54:14,842 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-25 17:54:14,844 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-25 17:54:14,844 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-25 17:54:16,527 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-25 17:54:16,847 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-25 17:54:16,848 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-25 17:54:17,113 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-25 17:54:17,113 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-25 17:54:17,113 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-25 17:55:33,612 - com.place.automation.utils.Log -INFO - Load Property File
+2022-05-25 17:55:33,615 - com.place.automation.utils.Log -INFO - Property File Initilized
+2022-05-25 17:55:33,615 - com.place.automation.utils.Log -INFO - browsername is: chrome
+2022-05-25 17:55:35,336 - com.place.automation.utils.Log -INFO - Initialized the driver successfully
+2022-05-25 17:55:35,529 - com.place.automation.utils.Log -INFO - objects loaded successfully
+2022-05-25 17:55:35,537 - com.place.automation.utils.Log -INFO - setting up the extent report configuration
+2022-05-25 17:55:35,624 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-25 17:55:35,624 - com.place.automation.utils.Log -INFO - **********navigateToAccountPage***********
+2022-05-25 17:55:35,624 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-25 17:55:41,966 - com.place.automation.utils.Log -INFO - entered the text deepak+autom@placetechnology.com successfully
+2022-05-25 17:55:46,096 - com.place.automation.utils.Log -INFO - entered the text qwerqwer2 successfully
+2022-05-25 17:56:03,223 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-25 17:56:03,223 - com.place.automation.utils.Log -INFO - **********createAcccount***********
+2022-05-25 17:56:03,224 - com.place.automation.utils.Log -INFO - **************************************
+2022-05-25 17:56:19,665 - com.place.automation.utils.Log -INFO - entered the text Accounts successfully
+2022-05-25 17:56:27,894 - com.place.automation.utils.Log -INFO - entered the text Accounts successfully
+2022-05-25 17:56:56,830 - com.place.automation.utils.Log -INFO - entered the text PlaceAutomationAccount20220525055535 successfully
+2022-05-25 17:57:01,176 - com.place.automation.utils.Log -INFO - entered the text Kcc Nagar Ajmer Road20220525055535 successfully
+2022-05-25 17:57:05,419 - com.place.automation.utils.Log -INFO - entered the text Jaipur successfully
+2022-05-25 17:57:09,631 - com.place.automation.utils.Log -INFO - entered the text Rajasthan successfully
+2022-05-25 17:57:13,878 - com.place.automation.utils.Log -INFO - entered the text 302024 successfully
+2022-05-25 17:57:18,101 - com.place.automation.utils.Log -INFO - entered the text India successfully

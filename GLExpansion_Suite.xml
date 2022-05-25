@@ -1,0 +1,159 @@
+<suite name="Suite2">
+
+
+	 <test name="Testing different feauture1">
+		<parameter name="fromMonth" value="1"/>
+		<parameter name="fromYear" value="2020"/>
+		<parameter name="toMonth" value="12"/>
+		<parameter name="toYear" value="2022"/>
+		<parameter name="orgName" value="All Organizations"/>
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.plforecast.TC01_PLForecastScreenQuarterView" />
+
+		</classes>
+	</test> 
+
+	
+	<test name="Testing different feauture2">
+		<parameter name="fromMonth" value="1"/>
+		<parameter name="fromYear" value="2021"/>
+		<parameter name="toMonth" value="12"/>
+		<parameter name="toYear" value="2021"/>
+		<parameter name="orgName" value="All Organizations"/>
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.plforecast.TC02_PLForecastScreenMonthView" />
+
+		</classes>
+	</test>
+
+	<test name="Testing different feauture3">
+		<parameter name="fromYear" value="2020"/>
+		<parameter name="toYear" value="2021"/>
+		<parameter name="orgName" value="All Organizations"/>
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.plforecast.TC03_PLForecastScreenYearView" />
+
+		</classes>
+	</test>
+	
+	<test name="Testing different feauture4">
+		<parameter name="fromMonth" value="1"/>
+		<parameter name="fromYear" value="2021"/>
+		<parameter name="toMonth" value="12"/>
+		<parameter name="toYear" value="2021"/>
+		<parameter name="orgName" value="All Organizations"/>
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.cashprojection.TC01_CashProjectionScreenQuarterView" />
+
+		</classes>
+	</test> -->
+
+	<test name="Testing different feauture5">
+
+		<parameter name="fromMonth" value="1"/>
+		<parameter name="fromYear" value="2021"/>
+		<parameter name="toMonth" value="12"/>
+		<parameter name="toYear" value="2021"/>
+		<parameter name="orgName" value="All Organizations"/>
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.cashprojection.TC02_CashProjectionScreenMonthView" />
+
+		</classes>
+	</test>
+
+ 	<test name="Testing different feauture6">
+ 		<parameter name="fromSunday" value="17"/>
+ 		<parameter name="fromMonth" value="1"/>
+		<parameter name="fromYear" value="2021"/>
+		<parameter name="toSunday" value="14"/>
+		<parameter name="toMonth" value="2"/>
+		<parameter name="toYear" value="2021"/>
+		<parameter name="orgName" value="All Organizations"/>
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.cashprojection.TC03_CashProjectionScreenWeekView" />
+
+		</classes>
+	</test> 
+	
+	<test name="Testing different feauture7">
+		<parameter name="fromYear" value="2020"/>
+		<parameter name="toYear" value="2021"/>
+		<parameter name="orgName" value="All Organizations"/>
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.cashprojection.TC04_CashProjectionScreenYearView" />
+
+		</classes>
+	</test> 
+
+	
+
+<!--	<test name="Testing different feauture8">
+
+		<parameter name="fromMonth" value="1"/>
+		<parameter name="fromYear" value="2021"/>
+		<parameter name="toMonth" value="12"/>
+		<parameter name="toYear" value="2021"/>
+		<parameter name="orgName" value="DpkQBSB6"/>
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.plforecastbeta.TC01_PLForecastBetaScreenQuarterView" />
+
+		</classes>
+	</test>
+	
+	<test name="Testing different feauture9">
+		<parameter name="fromMonth" value="1"/>
+		<parameter name="fromYear" value="2021"/>
+		<parameter name="toMonth" value="12"/>
+		<parameter name="toYear" value="2021"/>
+		<parameter name="orgName" value="DpkQBSB6"/>
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.plforecastbeta.TC02_PLForecastBetaScreenMonthView" />
+
+		</classes>
+	</test>
+
+	<test name="Testing different feauture_10">
+		<parameter name="fromYear" value="2020"/>
+		<parameter name="toYear" value="2022"/>
+		<parameter name="orgName" value="DpkQBSB6"/>
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.plforecastbeta.TC03_PLForecastBetaScreenYearView" />
+
+		</classes>
+	</test> 
+	
+	<test name="Testing different feauture1">
+		<parameter name="fromMonth" value="1"/>
+		<parameter name="fromYear" value="2021"/>
+		<parameter name="toMonth" value="12"/>
+		<parameter name="toYear" value="2021"/>
+		<parameter name="orgName" value="All Organizations"/>
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.plforecast.TC01_PLForecastScreenQuarterView" />
+
+		</classes>
+	</test> -->
+
+</suite> 

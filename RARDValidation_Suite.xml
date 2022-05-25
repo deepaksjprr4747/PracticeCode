@@ -1,0 +1,30 @@
+<suite name="Suite1">
+
+	<test name="RA and RD Creation">
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.revenueaccount.TC02_CreateRARD" />
+
+		</classes>
+	</test> 
+	
+	<test name="RD Validation on PL Screen" >
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.plforecast.TC04_GLAllocationValidationMonthView" />
+
+		</classes>
+	</test>
+	
+	<test name="RD Validation on Cash Screen" >
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.cashprojection.TC05_CashAllocationValidationMonthView" />
+
+		</classes>
+	</test>
+
+</suite> 

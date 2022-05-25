@@ -1,0 +1,11 @@
+<suite name="Suite1">
+
+	<test name="EA and ED Creation NR">
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.revenueaccount.TC04_CreateNonRecurringRDwithMultipleEdits" />
+
+		</classes>
+	</test> 
+	</suite>

@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="All" verbose="10" >
+
+<test name="Testing different feautures3">
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.TC05_PISscript_XeroQB" />
+		</classes>
+	</test>
+        <!--   <suite-files>
+           	<suite-file path="SingleRDMultipleEdits_Suite.xml"/>
+           
+        </suite-files> 
+         -->
+        
+       
+</suite>

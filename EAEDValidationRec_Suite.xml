@@ -1,0 +1,58 @@
+<suite name="Suite1">
+
+	<test name="EA and ED Creation recurring">
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.expenseaccount.TC01_CreateEAEDRecurring" />
+
+		</classes>
+	</test> 
+	
+	<test name="ED Validation on PL Screen recurring" >
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.plforecast.TC04_GLAllocationValidationMonthView" />
+
+		</classes>
+	</test>
+	
+	<test name="ED Validation on Cash Screen recurring" >
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.cashprojection.TC05_CashAllocationValidationMonthView" />
+
+		</classes>
+	</test>
+	
+	<test name="EA editing recurring">
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.expenseaccount.TC03_EditRecurringED" />
+
+		</classes>
+	</test> 
+	
+	<test name="Edited ED Validation on PL Screen recurring" >
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.plforecast.TC05_EditedGLAllocationValidationMonthView" />
+
+		</classes>
+	</test>
+	
+	<test name="Edited ED Validation on Cash Screen recurring" >
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.cashprojection.TC06_CashAllocationEditValidationMonthView" />
+
+		</classes>
+	</test>
+	
+
+</suite> 

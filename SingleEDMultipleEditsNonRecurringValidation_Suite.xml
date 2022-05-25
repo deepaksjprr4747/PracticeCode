@@ -1,0 +1,22 @@
+<suite name="Suite1">
+
+	<test name="EA and ED Creation">
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.expenseaccount.TC07_CreateSingleEDForMultipleEditValidation" />
+
+		</classes>
+	</test> 
+	
+	<test name="ED edits and Validation on Cash Screen" >
+		
+		<classes>
+			<class
+				name="com.place.automation.cpm.testcases.expenseaccount.TC08_EditSingleEDforMultipleEditValidation" />
+
+		</classes>
+	</test>
+	
+
+</suite> 
